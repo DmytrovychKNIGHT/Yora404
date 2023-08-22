@@ -62,3 +62,7 @@ python 404.py
 ### [+] Credits: <a href="https://github.com/H3LLO-H4CK3R-2/Bash-Encrypt">H3LL0-H4CK3R</a> and <a href="https://github.com/wodxgod/Simple-obfuscator">WodxGod</a> and <a href="https://github.com/chris-rands/emojify">Chris-Rands</a>
 -----
 ### ***warm greetings***
+<details>
+  <summary><b>More information</b></summary>
+
+![readmebox](https://github.com/ReyyFUSHIGURO/Yora404/assets/141108240/5184ca6c-ac7c-41a7-98e9-3dd2d7699e62)
