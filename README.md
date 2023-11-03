@@ -9,7 +9,7 @@
 ### [+] Installation :
 ```
 apt install git python -y
-git clone https://github.com/AmoureYORA/Yora404
+git clone https://github.com/DeraaSt4in/Yora404
 ```
 -----
 ### Or, use single command
